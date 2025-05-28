@@ -77,6 +77,7 @@ public class JavaSyntax
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
         System.out.println("You entered: " + num);
+        sc.close();
 
         //Array declaration and traversal
         int[] arr = {1, 2, 3, 4, 5};
