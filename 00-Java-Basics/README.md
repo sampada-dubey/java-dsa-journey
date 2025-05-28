@@ -25,8 +25,10 @@ This folder contains foundational Java syntax and concepts that every Java progr
    ```bash
    java -version
 2. Compile the code
+   ```bash
     javac JavaSntax.java
 3. Run the code
+   ```bash
     java JavaSyntax
 
 📝 Notes
