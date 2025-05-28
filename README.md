@@ -2,7 +2,7 @@
 
 Welcome to my complete **Data Structures and Algorithms (DSA)** learning journey using **Java**. This repository is structured topic-wise and contains clean, commented Java code for various problems along with my personal notes and resources.
 
-> 💻 I'm learning DSA to become placement-ready for SDE roles at top tech companies (Google, Amazon, Microsoft, etc.).
+> 💻 I'm learning DSA to become placement-ready for SDE roles at top tech companies.
 
 ---
 
@@ -71,7 +71,7 @@ To complete all DSA topics with:
 
 I'm Sampada, a 3rd-year Computer Science student passionate about Software Development, AI/ML, and cracking top company interviews.
 
-Let's connect on [GitHub](https://github.com/sampada-dubey)!
+Let's connect on [GitHub](https://github.com/sampada-dubey) [LinkedIn](https://linkedin.com/in/sampada-dubey1403)!
 
 ---
 
