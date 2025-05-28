@@ -43,10 +43,24 @@ public class JavaSyntax {
         // Functions
         int sum = add(5, 10);
         System.out.println("Sum: " + sum);
+
+        //Switch Statement
+        int day = 3;
+        switch (day) {
+            case 1:
+            System.out.println("Monday");
+            break;
+            case 2:
+            System.out.println("Tuesday");
+            break;
+            default:
+            System.out.println("Other Day");
     }
 
     // Function to add two numbers
-    public static int add(int x, int y) {
+    public static int add(int x, int y)
+    {
         return x + y;
     }
+}
 }
