@@ -2,6 +2,12 @@
 // Basic Java syntax examples and practice
 
 public class JavaSyntax {
+
+    // Function to add two numbers
+    public static int add(int x, int y)
+    {
+        return x + y;
+    }
     public static void main(String[] args) {
         // Print Hello World
         System.out.println("Hello, World!");
@@ -57,10 +63,5 @@ public class JavaSyntax {
             System.out.println("Other Day");
     }
 
-    // Function to add two numbers
-    public static int add(int x, int y)
-    {
-        return x + y;
-    }
 }
 }
