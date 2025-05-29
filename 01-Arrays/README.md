@@ -39,13 +39,13 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ## ✅ Day 2: Interview-Oriented Problems – [`InterviewProblems1.java`](./InterviewProblems1.java)
 
-| # | Problem                               | Concept             |
-|---|----------------------------------------|---------------------|
-| 1 | Move all zeroes to end                | Two-pointer         |
-| 2 | Rotate array by `k` positions         | Reversal algorithm  |
-| 3 | Check if array is sorted              | Simple logic        |
-| 4 | Find second largest element           | Linear scan         |
-| 5 | Remove duplicates (sorted array only) | Two-pointer         |
+| # | Problem                               | Concept             | Link                                                                 |
+|---|----------------------------------------|---------------------|----------------------------------------------------------------------|
+| 1 | Move all zeroes to end                | Two-pointer         | [LeetCode – Move Zeroes](https://leetcode.com/problems/move-zeroes/) |
+| 2 | Rotate array by `k` positions         | Reversal algorithm  | [LeetCode – Rotate Array](https://leetcode.com/problems/rotate-array/) |
+| 3 | Check if array is sorted              | Simple logic        | [GFG – Check if Sorted](https://www.geeksforgeeks.org/program-check-array-sorted-not/) |
+| 4 | Find second largest element           | Linear scan         | [GFG – Second Largest](https://www.geeksforgeeks.org/find-second-largest-element-array/) |
+| 5 | Remove duplicates (sorted array only) | Two-pointer         | [LeetCode – Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ---
 
