@@ -49,6 +49,15 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 3: Sliding Window – [`SlidingWindow.java`](./SlidingWindow.java)
+
+| # | Problem                                          | Pattern        | Link                                                                                       |
+|---|--------------------------------------------------|----------------|--------------------------------------------------------------------------------------------|
+| 1 | Maximum sum of subarray of size k                | Fixed window   | [GFG – Max sum subarray of size k](https://www.geeksforgeeks.org/window-sliding-technique/) |
+| 2 | First negative integer in every window of size k | Fixed window   | [GFG – First negative in window](https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/) |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
