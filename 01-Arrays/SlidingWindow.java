@@ -47,6 +47,7 @@ public class SlidingWindow
         return res;
     }
 
+    // Day 4
     // 3. Longest substring with at most k distinct characters
     static int longestKDistinct(String s, int k)
     {
@@ -106,6 +107,6 @@ public class SlidingWindow
 
         int[] arr3 = {4, 2, 1, 1, 1, 2, 3};
         int maxSumK = 5;
-        System.out.println("Longest subarray with sum at most " + maxSumK + ": " + longestSubarraySumAtMostK(arr3, maxSumK));
+        System.out.println("Longest subarray with sum at most " + maxSumK + ": " + longestSum(arr3, maxSumK));
     }
 }
