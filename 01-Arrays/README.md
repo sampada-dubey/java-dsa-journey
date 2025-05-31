@@ -68,6 +68,15 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 5: Prefix Sum – [`PrefixSum.java`](./PrefixSum.java)
+
+| # | Problem                           | Pattern     | Link                                                                                       |
+|---|-----------------------------------|-------------|--------------------------------------------------------------------------------------------|
+| 1 | Prefix sum of an array            | Basic       | [GFG – Prefix sum array](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) |
+| 2 | Subarray sum equal to k           | Prefix sum  | [GFG – Subarray with given sum](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
