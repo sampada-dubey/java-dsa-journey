@@ -58,6 +58,16 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+
+## ✅ Day 4: Variable-Size Sliding Window – [`SlidingWindow.java`](./SlidingWindow.java)
+
+| # | Problem                                          | Pattern           | Link                                                                                                  |
+|---|--------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------|
+| 1 | Longest substring with at most K distinct chars  | Variable window   | [LeetCode – Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) |
+| 2 | Longest subarray with sum at most K              | Variable window   | [GFG – Longest subarray with sum at most K](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)    |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
