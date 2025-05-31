@@ -41,6 +41,6 @@ public class PrefixSum
 
         int[] arr2 = {1, 1, 1};
         int k = 2;
-        System.out.println("Number of subarrays with sum " + k + ": " + subarraySumEqualsK(arr2, k));
+        System.out.println("Number of subarrays with sum " + k + ": " + subarraySum(arr2, k));
         }
 }
