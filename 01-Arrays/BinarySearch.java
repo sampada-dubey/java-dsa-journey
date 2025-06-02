@@ -16,7 +16,7 @@ public class BinarySearch
     }   
 
     // 2. Find first occurence of target (lower bound)
-    static int firstOccurence(int[] arr, int target)
+    static int firstOccurrence(int[] arr, int target)
     {
         int left = 0, right = arr.length - 1;
         int result = -1;
@@ -52,17 +52,17 @@ public class BinarySearch
         return ans;
     }
 
-    public static void main(Sttring[] args)
+    public static void main(String[] args)
     {
         // 1. Test Binary Search
-        int[] arr1 - {1, 3, 5, 7, 9, 11};
+        int[] arr1 = {1, 3, 5, 7, 9, 11};
         int target = 5;
         System.out.println("Index of " + target + ": " + binarySearch(arr1, target));
 
         // 2️. Test first occurrence
         int[] arr2 = {1, 2, 2, 2, 3, 4};
         target = 2;
-        System.out.println("First occurrence of " + target + ": " + firstOccurrence(arr2, target));
+        System.out.println("First occurrence of " + target + ": " + firstOccurrenc(arr2, target));
 
         // 3️. Test square root
         int x = 10;
