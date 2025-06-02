@@ -77,6 +77,15 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 6: Two Pointers – [`TwoPointers.java`](./TwoPointers.java)
+
+| # | Problem                             | Pattern       | Link                                                                                                  |
+|---|-------------------------------------|---------------|-------------------------------------------------------------------------------------------------------|
+| 1 | Pair with target sum in sorted array| Two pointers  | [GFG – Two pointer technique](https://www.geeksforgeeks.org/two-pointers-technique/)                    |
+| 2 | Trapping rainwater                  | Two pointers  | [GFG – Trapping rain water](https://www.geeksforgeeks.org/trapping-rain-water/)                        |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
