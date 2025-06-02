@@ -73,7 +73,7 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 | # | Problem                           | Pattern     | Link                                                                                       |
 |---|-----------------------------------|-------------|--------------------------------------------------------------------------------------------|
 | 1 | Prefix sum of an array            | Basic       | [GFG – Prefix sum array](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/) |
-| 2 | Subarray sum equal to k           | Prefix sum  | [GFG – Subarray with given sum](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) |
+| 2 | Subarray sum equal to k           | Prefix sum  | [GFG – Subarray with given sum](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) || [LeetCode 560 – Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|
 
 ---
 
@@ -81,8 +81,8 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 | # | Problem                             | Pattern       | Link                                                                                                  |
 |---|-------------------------------------|---------------|-------------------------------------------------------------------------------------------------------|
-| 1 | Pair with target sum in sorted array| Two pointers  | [GFG – Two pointer technique](https://www.geeksforgeeks.org/two-pointers-technique/)                    |
-| 2 | Trapping rainwater                  | Two pointers  | [GFG – Trapping rain water](https://www.geeksforgeeks.org/trapping-rain-water/)                        |
+| 1 | Pair with target sum in sorted array| Two pointers  | [GFG – Two pointer technique](https://www.geeksforgeeks.org/two-pointers-technique/) || [LeetCode 167 – Two Sum II (Input Array is Sorted)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                  |
+| 2 | Trapping rainwater                  | Two pointers  | [GFG – Trapping rain water](https://www.geeksforgeeks.org/trapping-rain-water/)  || [LeetCode 42 – Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                      |
 
 ---
 
@@ -90,9 +90,9 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 | # | Problem                               | Pattern        | Link                                                                                      |
 |---|---------------------------------------|----------------|------------------------------------------------------------------------------------------|
-| 1 | Standard binary search                | Classic BS     | [GFG – Binary Search](https://www.geeksforgeeks.org/binary-search/)                       |
-| 2 | First occurrence of target            | Lower bound BS | [GFG – Lower Bound](https://www.geeksforgeeks.org/lower-bound-upper-bound-binary-search/) |
-| 3 | Square root of a number               | Binary search  | [GFG – Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/) |
+| 1 | Standard binary search                | Classic BS     | [GFG – Binary Search](https://www.geeksforgeeks.org/binary-search/)  || [LeetCode 704 – Binary Search](https://leetcode.com/problems/binary-search/)                     |
+| 2 | First occurrence of target            | Lower bound BS | [GFG – Lower Bound](https://www.geeksforgeeks.org/lower-bound-upper-bound-binary-search/) || [LeetCode 34 – Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|
+| 3 | Square root of a number               | Binary search  | [GFG – Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/) || [LeetCode 69 – Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 
 ---
 
