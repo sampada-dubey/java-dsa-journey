@@ -86,6 +86,16 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 7: Binary Search – [`BinarySearch.java`](./BinarySearch.java)
+
+| # | Problem                               | Pattern        | Link                                                                                      |
+|---|---------------------------------------|----------------|------------------------------------------------------------------------------------------|
+| 1 | Standard binary search                | Classic BS     | [GFG – Binary Search](https://www.geeksforgeeks.org/binary-search/)                       |
+| 2 | First occurrence of target            | Lower bound BS | [GFG – Lower Bound](https://www.geeksforgeeks.org/lower-bound-upper-bound-binary-search/) |
+| 3 | Square root of a number               | Binary search  | [GFG – Square root of a number](https://www.geeksforgeeks.org/square-root-of-an-integer/) |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
