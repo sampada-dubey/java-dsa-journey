@@ -62,7 +62,7 @@ public class BinarySearch
         // 2️. Test first occurrence
         int[] arr2 = {1, 2, 2, 2, 3, 4};
         target = 2;
-        System.out.println("First occurrence of " + target + ": " + firstOccurrenc(arr2, target));
+        System.out.println("First occurrence of " + target + ": " + firstOccurrence(arr2, target));
 
         // 3️. Test square root
         int x = 10;
