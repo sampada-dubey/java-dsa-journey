@@ -96,6 +96,15 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 8: Monotonic Stack – [`MonotonicStack.java`](./MonotonicStack.java)
+
+| # | Problem                             | Link                                                                                     |
+|---|-------------------------------------|------------------------------------------------------------------------------------------|
+| 1 | Next Greater Element                | [LeetCode 503 – Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) |
+| 2 | Largest Rectangle in Histogram      | [LeetCode 84 – Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
