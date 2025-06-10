@@ -39,6 +39,35 @@ public class TwoPointers
         }
         return trapped;
     }
+    // 3. Remove Duplicates from Sorted Array (in-place)
+    static int removeDuplicates(int[] nums) {
+        if (nums.length == 0) return 0;
+        int i = 0;
+        for (int j = 1; j < nums.length; j++) {
+            if (nums[j] != nums[i]) {
+                i++;
+                nums[i] = nums[j];
+            }
+        }
+        return i + 1; // Length of unique elements
+    }
+
+    // 4. Container With Most Water
+    static int maxArea(int[] height) {
+        int left = 0, right = height.length - 1;
+        int maxArea = 0;
+        while (left < right) {
+            int h = Math.min(height[left], height[right]);
+            int w = right - left;
+            maxArea = Math.max(maxArea, h * w);
+            if (height[left] < height[right]) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+        return maxArea;
+    }
 
     public static void main(String[] args)
     {
@@ -50,5 +79,14 @@ public class TwoPointers
         // 2️. Test trapping rainwater
         int[] height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
         System.out.println("Trapped rainwater: " + trapRainWater(height));
+
+        // 3. Remove Duplicates from Sorted Array
+        int[] nums = {0,0,1,1,1,2,2,3,3,4};
+        int length = removeDuplicates(nums);
+        System.out.println("Length of unique elements: " + length);
+
+        // 4. Container With Most Water
+        int[] heights = {1,8,6,2,5,4,8,3,7};
+        System.out.println("Max Area: " + maxArea(heights));
     }
 }

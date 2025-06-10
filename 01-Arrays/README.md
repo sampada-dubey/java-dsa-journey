@@ -105,6 +105,15 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
+## ✅ Day 09: Two Pointers – [`TwoPointers.java`](./TwoPointers.java)
+
+| # | Problem                        | Link                                                                                    |
+|---|--------------------------------|------------------------------------------------------------------------------------------|
+| 1 | Remove Duplicates from Sorted Array | [LeetCode 26 – Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 2 | Container With Most Water     | [LeetCode 11 – Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
+
+---
+
 ## 🏃‍♂️ How to Run Any File
 
 ```bash
