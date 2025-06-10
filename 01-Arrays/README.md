@@ -4,7 +4,7 @@ This folder contains Java-based array problems, categorized by difficulty and pa
 
 ---
 
-## ## ✅ Day 1: Basic Array Operations – [`BasicProblems.java`](./BasicProblems.java)
+##  ✅ Day 1: Basic Array Operations – [`BasicProblems.java`](./BasicProblems.java)
 
 ### ✅ Covered Concepts:
 
