@@ -1,4 +1,4 @@
 
-public class FrequencyMap {
+public class FrequencyMap{
     
 }
