@@ -69,7 +69,7 @@ To complete all DSA topics with:
 
 ## 🧠 About Me
 
-I'm Sampada, a 3rd-year Computer Science student passionate about Software Development, AI/ML, and cracking top company interviews.
+I'm Sampada, a final year Computer Science student passionate about Software Development, AI/ML, and cracking top company interviews.
 
 Let's connect on-
 
