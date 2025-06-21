@@ -10,3 +10,10 @@
 | 4 | Sum of First N Natural Numbers | Recursive Sum  |
 
 ---
+
+## ✅ Subsets & Permutations – [`SubsetsAndPermutations.java`](./SubsetsAndPermutations.java)
+
+| # | Problem        | LeetCode Link                                                                   |
+|---|----------------|----------------------------------------------------------------------------------|
+| 1 | Subsets        | [LeetCode 78 – Subsets](https://leetcode.com/problems/subsets/)                 |
+| 2 | Permutations   | [LeetCode 46 – Permutations](https://leetcode.com/problems/permutations/)       |
