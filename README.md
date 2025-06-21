@@ -12,9 +12,9 @@ Welcome to my complete **Data Structures and Algorithms (DSA)** learning journey
 |-----|---------------------|----------|-------|
 | 00  | Java Basics         | ✅ Done   | Syntax, input, loops, arrays, strings |
 | 01  | Arrays              | ✅ Done | Sliding window, prefix sum, 2-pointer |
-| 02  | Strings             | 🚧 Ongoing | StringBuilder, palindrome, anagrams |
+| 02  | Strings             | ✅ Done | StringBuilder, palindrome, anagrams |
 | 03  | Hashing             | ⏳ Upcoming | HashMap, HashSet, frequency count |
-| 04  | Recursion           | ⏳ Upcoming | Backtracking, subset problems |
+| 04  | Recursion           | 🚧 Ongoing | Backtracking, subset problems |
 | 05  | Linked List         | ⏳ Upcoming | Singly, doubly, reverse, cycle detect |
 | 06  | Stack & Queue       | ⏳ Upcoming | Stack using array/LL, queue types |
 | 07  | Trees               | ⏳ Upcoming | Binary Tree, BST, traversals |
