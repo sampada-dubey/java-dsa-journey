@@ -26,3 +26,12 @@
 |---|--------------------------|--------------------------------------------------------------------------------|
 | 1 | Combination Sum         | [LeetCode 39 – Combination Sum](https://leetcode.com/problems/combination-sum/) |
 | 2 | Palindrome Partitioning | [LeetCode 131 – Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) |
+
+---
+
+## ✅ Placement Problems – [`PlacementProblems.java`](./PlacementProblems.java)
+
+| # | Problem         | LeetCode Link                                                                 |
+|---|------------------|--------------------------------------------------------------------------------|
+| 1 | N-Queens        | [LeetCode 51 – N-Queens](https://leetcode.com/problems/n-queens/)              |
+| 2 | Word Search     | [LeetCode 79 – Word Search](https://leetcode.com/problems/word-search/)        |
