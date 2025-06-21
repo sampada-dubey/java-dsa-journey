@@ -17,3 +17,12 @@
 |---|----------------|----------------------------------------------------------------------------------|
 | 1 | Subsets        | [LeetCode 78 – Subsets](https://leetcode.com/problems/subsets/)                 |
 | 2 | Permutations   | [LeetCode 46 – Permutations](https://leetcode.com/problems/permutations/)       |
+
+---
+
+## ✅ Advanced Backtracking – [`AdvancedBacktracking.java`](./AdvancedBacktracking.java)
+
+| # | Problem                  | LeetCode Link                                                                 |
+|---|--------------------------|--------------------------------------------------------------------------------|
+| 1 | Combination Sum         | [LeetCode 39 – Combination Sum](https://leetcode.com/problems/combination-sum/) |
+| 2 | Palindrome Partitioning | [LeetCode 131 – Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) |
